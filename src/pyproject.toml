@@ -1,0 +1,19 @@
+[project]
+name = "python_graphics_kowaga"
+version = "0.0.1"
+authors = [
+  { name="Kowaga", email="kowagawastaken@gmail.com" },
+]
+description = "A package to display graphics in the terminal"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/Kowagaa/PythonGraphics"
+Issues = "https://github.com/Kowagaa/PythonGraphics/issues"
