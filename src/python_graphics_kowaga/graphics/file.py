@@ -1,5 +1,5 @@
-from graphics import *
-from conversion import *
+from src.python_graphics_kowaga.graphics.graphics import *
+from src.python_graphics_kowaga.graphics.conversion import *
 from ast import literal_eval
 
 def saveToDotpybm(bitmap : bitMap, path : str):

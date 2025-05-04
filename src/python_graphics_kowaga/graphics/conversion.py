@@ -1,3 +1,4 @@
+from src.python_graphics_kowaga.graphics.graphics import *
 def bitMapToArr(bitmap : bitMap):
     out = [[0 for i in range(bitmap.y)] for i in range(bitmap.x)]
     for i in range(bitmap.y):

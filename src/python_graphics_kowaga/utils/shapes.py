@@ -1,4 +1,4 @@
-from graphics.graphics import *
+from src.python_graphics_kowaga.graphics.graphics import *
 
 def square(size : tuple[int], color : int, is_hollow : bool = True):
     """
